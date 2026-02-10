@@ -24,7 +24,7 @@ A modern, responsive portfolio website built with Next.js 14, TypeScript, and Ta
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/abhisek-portfolio.git
+git clone https://github.com/Abhisek-labala/abhisek-portfolio.git
 cd abhisek-portfolio
 ```
 
@@ -50,7 +50,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/yourusername/abhisek-portfolio.git
+git remote add origin https://github.com/Abhisek-labala/abhisek-portfolio.git
 git push -u origin main
 ```
 
